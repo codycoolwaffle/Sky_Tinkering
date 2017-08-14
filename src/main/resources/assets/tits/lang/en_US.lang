@@ -1,0 +1,8 @@
+item.Infinitool.skyhammer=exHammer
+
+infitool.skyhammer=exHammer
+
+tool.skyhammer=exHammer
+
+gui.toolstation.exhammer.name=exHammer
+gui.toolstation.exhammer.desc=A hammer used to break down blocks by mining them.

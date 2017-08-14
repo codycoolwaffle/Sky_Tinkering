@@ -1,0 +1,303 @@
+[00:56:24] [main/INFO] [GradleStart]: Extra: []
+[00:56:24] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[00:56:24] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[00:56:24] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[00:56:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:56:24] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[03:36:34] [main/INFO] [GradleStart]: Extra: []
+[03:36:34] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[03:36:34] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[03:36:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[03:36:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[03:36:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[03:36:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[03:44:01] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[03:44:01] [main/INFO] [GradleStart]: Extra: []
+[03:44:01] [main/INFO] [GradleStart]: Password found, attempting login
+[03:44:03] [main/INFO] [GradleStart]: Login Succesful!
+[03:44:03] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[03:44:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[03:44:03] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[03:44:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[03:44:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[03:44:03] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:00:25] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:00:25] [main/INFO] [GradleStart]: Extra: []
+[04:00:25] [main/INFO] [GradleStart]: Password found, attempting login
+[04:00:27] [main/INFO] [GradleStart]: Login Succesful!
+[04:00:27] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:00:27] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:00:27] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:00:27] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:00:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:00:27] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:06:08] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:06:08] [main/INFO] [GradleStart]: Extra: []
+[04:06:08] [main/INFO] [GradleStart]: Password found, attempting login
+[04:06:10] [main/INFO] [GradleStart]: Login Succesful!
+[04:06:10] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:06:10] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:06:10] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:06:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:06:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:06:10] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:06:58] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:06:58] [main/INFO] [GradleStart]: Extra: []
+[04:06:58] [main/INFO] [GradleStart]: Password found, attempting login
+[04:06:59] [main/INFO] [GradleStart]: Login Succesful!
+[04:06:59] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:06:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:06:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:06:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:06:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:06:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:08:43] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:08:43] [main/INFO] [GradleStart]: Extra: []
+[04:08:43] [main/INFO] [GradleStart]: Password found, attempting login
+[04:08:45] [main/INFO] [GradleStart]: Login Succesful!
+[04:08:45] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:08:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:08:45] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:08:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:08:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:08:45] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:13:55] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:13:55] [main/INFO] [GradleStart]: Extra: []
+[04:13:55] [main/INFO] [GradleStart]: Password found, attempting login
+[04:13:57] [main/INFO] [GradleStart]: Login Succesful!
+[04:13:57] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:13:57] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:13:57] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:13:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:13:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:13:57] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:14:57] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:14:57] [main/INFO] [GradleStart]: Extra: []
+[04:14:57] [main/INFO] [GradleStart]: Password found, attempting login
+[04:14:58] [main/INFO] [GradleStart]: Login Succesful!
+[04:14:58] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:14:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:14:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:14:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:14:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:14:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:24:44] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:24:44] [main/INFO] [GradleStart]: Extra: []
+[04:24:44] [main/INFO] [GradleStart]: Password found, attempting login
+[04:24:45] [main/INFO] [GradleStart]: Login Succesful!
+[04:24:45] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:24:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:24:45] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:24:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:24:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:24:45] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:26:27] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:26:27] [main/INFO] [GradleStart]: Extra: []
+[04:26:27] [main/INFO] [GradleStart]: Password found, attempting login
+[04:26:28] [main/INFO] [GradleStart]: Login Succesful!
+[04:26:28] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:26:28] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:26:28] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:26:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:26:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:26:28] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:39:29] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:39:29] [main/INFO] [GradleStart]: Extra: []
+[04:39:29] [main/INFO] [GradleStart]: Password found, attempting login
+[04:39:30] [main/INFO] [GradleStart]: Login Succesful!
+[04:39:30] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:39:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:39:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:39:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:39:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:39:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:41:09] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:41:09] [main/INFO] [GradleStart]: Extra: []
+[04:41:09] [main/INFO] [GradleStart]: Password found, attempting login
+[04:41:11] [main/INFO] [GradleStart]: Login Succesful!
+[04:41:11] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:41:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:41:11] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:41:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:41:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:41:11] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[04:44:28] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[04:44:28] [main/INFO] [GradleStart]: Extra: []
+[04:44:28] [main/INFO] [GradleStart]: Password found, attempting login
+[04:44:30] [main/INFO] [GradleStart]: Login Succesful!
+[04:44:30] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[04:44:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[04:44:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:44:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[04:44:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[04:44:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:53] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[16:33:53] [main/INFO] [GradleStart]: Extra: []
+[16:33:53] [main/INFO] [GradleStart]: Password found, attempting login
+[16:33:54] [main/INFO] [GradleStart]: Login Succesful!
+[16:33:54] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[16:33:55] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:33:55] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:33:55] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:37:17] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[16:37:17] [main/INFO] [GradleStart]: Extra: []
+[16:37:17] [main/INFO] [GradleStart]: Password found, attempting login
+[16:37:18] [main/INFO] [GradleStart]: Login Succesful!
+[16:37:18] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[16:37:18] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:37:18] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:37:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:37:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:37:18] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:44] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[16:40:44] [main/INFO] [GradleStart]: Extra: []
+[16:40:44] [main/INFO] [GradleStart]: Password found, attempting login
+[16:40:45] [main/INFO] [GradleStart]: Login Succesful!
+[16:40:45] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[16:40:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:40:45] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:40:45] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:42:19] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[16:42:19] [main/INFO] [GradleStart]: Extra: []
+[16:42:19] [main/INFO] [GradleStart]: Password found, attempting login
+[16:42:20] [main/INFO] [GradleStart]: Login Succesful!
+[16:42:20] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[16:42:20] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:42:20] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:42:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:42:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:42:20] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:50:27] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[16:50:27] [main/INFO] [GradleStart]: Extra: []
+[16:50:27] [main/INFO] [GradleStart]: Password found, attempting login
+[16:50:29] [main/INFO] [GradleStart]: Login Succesful!
+[16:50:29] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[16:50:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:50:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:50:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:50:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:50:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:57:25] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[16:57:25] [main/INFO] [GradleStart]: Extra: []
+[16:57:25] [main/INFO] [GradleStart]: Password found, attempting login
+[16:57:26] [main/INFO] [GradleStart]: Login Succesful!
+[16:57:26] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[16:57:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:57:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:57:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:57:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:57:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:02:41] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:02:41] [main/INFO] [GradleStart]: Extra: []
+[17:02:41] [main/INFO] [GradleStart]: Password found, attempting login
+[17:02:42] [main/INFO] [GradleStart]: Login Succesful!
+[17:02:42] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:02:42] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:02:42] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:02:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:02:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:02:42] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:03:31] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:03:31] [main/INFO] [GradleStart]: Extra: []
+[17:03:31] [main/INFO] [GradleStart]: Password found, attempting login
+[17:03:32] [main/INFO] [GradleStart]: Login Succesful!
+[17:03:32] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:03:32] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:03:32] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:03:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:03:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:03:32] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:05:57] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:05:57] [main/INFO] [GradleStart]: Extra: []
+[17:05:57] [main/INFO] [GradleStart]: Password found, attempting login
+[17:05:59] [main/INFO] [GradleStart]: Login Succesful!
+[17:05:59] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:05:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:05:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:05:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:05:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:05:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:08:23] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:08:23] [main/INFO] [GradleStart]: Extra: []
+[17:08:23] [main/INFO] [GradleStart]: Password found, attempting login
+[17:08:24] [main/INFO] [GradleStart]: Login Succesful!
+[17:08:24] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:08:24] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:08:24] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:08:24] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:08:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:08:24] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:14:58] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:14:58] [main/INFO] [GradleStart]: Extra: []
+[17:14:58] [main/INFO] [GradleStart]: Password found, attempting login
+[17:14:59] [main/INFO] [GradleStart]: Login Succesful!
+[17:14:59] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:14:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:14:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:14:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:14:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:14:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:16:36] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:16:36] [main/INFO] [GradleStart]: Extra: []
+[17:16:36] [main/INFO] [GradleStart]: Password found, attempting login
+[17:16:37] [main/INFO] [GradleStart]: Login Succesful!
+[17:16:38] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:16:38] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:16:38] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:16:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:16:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:16:38] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:46] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:20:46] [main/INFO] [GradleStart]: Extra: []
+[17:20:46] [main/INFO] [GradleStart]: Password found, attempting login
+[17:20:47] [main/INFO] [GradleStart]: Login Succesful!
+[17:20:48] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:20:48] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:20:48] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:20:48] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:33:46] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:33:46] [main/INFO] [GradleStart]: Extra: []
+[17:33:46] [main/INFO] [GradleStart]: Password found, attempting login
+[17:33:47] [main/INFO] [GradleStart]: Login Succesful!
+[17:33:48] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:33:48] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:33:48] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:33:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:33:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:33:48] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:34:58] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:34:58] [main/INFO] [GradleStart]: Extra: []
+[17:34:58] [main/INFO] [GradleStart]: Password found, attempting login
+[17:34:59] [main/INFO] [GradleStart]: Login Succesful!
+[17:34:59] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:34:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:34:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:34:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:34:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:34:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:44:45] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:44:45] [main/INFO] [GradleStart]: Extra: []
+[17:44:45] [main/INFO] [GradleStart]: Password found, attempting login
+[17:44:46] [main/INFO] [GradleStart]: Login Succesful!
+[17:44:46] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:44:46] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:44:47] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:44:47] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:44:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:44:47] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:46:25] [main/INFO] [GradleStart]: username: codyhaslam@gmail.com
+[17:46:25] [main/INFO] [GradleStart]: Extra: []
+[17:46:25] [main/INFO] [GradleStart]: Password found, attempting login
+[17:46:26] [main/INFO] [GradleStart]: Login Succesful!
+[17:46:26] [main/INFO] [GradleStart]: Found and added coremod: cofh.asm.LoadingPlugin
+[17:46:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/hasla/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 462a56d8d7d149c7b1fdc2185b0603eb, --username, codycoolwaffle, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:46:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:46:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:46:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:46:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
