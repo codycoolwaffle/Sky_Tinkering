@@ -2121,7 +2121,7 @@ Build 1.7.10-10.13.0.1174:
 		
 		Added block XYZ parameters
 		
-		TODO, the second block overlay event’s XYZ might not be correct
+		TO-DO, the second block overlay event’s XYZ might not be correct
 	Adubbz: Enhanced the Biome Dictionary with tags based on temperature, vegetation, moisture, trees and others
 
 Build 1.7.10-10.13.0.1172:

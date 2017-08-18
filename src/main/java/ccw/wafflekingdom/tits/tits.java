@@ -7,6 +7,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import ccw.wafflekingdom.tits.common.TitsProxyCommon;
+import ccw.wafflekingdom.tits.tools.SkyCrook;
 import ccw.wafflekingdom.tits.tools.SkyHammer;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -36,21 +37,24 @@ public class tits
 	public static TitsProxyCommon proxy;
 	
 	public static SkyHammer skyHammer;
+	public static SkyCrook skyCrook;
 	
 	@EventHandler
 	@SuppressWarnings({"unused"})
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		tits.skyHammer = new SkyHammer();
+		tits.skyCrook = new SkyCrook();
 		
-		Item[] tools = {tits.skyHammer};
-		String[] toolStrings = {"skyhammer"};
+		Item[] tools = {tits.skyHammer, tits.skyCrook};
+		String[] toolStrings = {"skyhammer", "skycrook"};
 		
 		for(int i = 0; i < tools.length; i++)
 		{
 			GameRegistry.registerItem(tools[i], toolStrings[i]);
 			TConstructRegistry.addItemToDirectory(toolStrings[i], tools[i]);
 		}
+		logger.info(TConstructRegistry.itemDirectory);
 	}
 	
 	@EventHandler
@@ -67,6 +71,15 @@ public class tits
 				                        "tinker", "textures/gui/icons.png"));
 		TConstructRegistry.addToolRecipe(skyHammer, TinkerTools.hammerHead, TinkerTools.toolRod,
 		                                 TinkerTools.binding);
+		TConstructClientRegistry.toolButtons
+				.add(new ToolGuiElement(0, 6, 4, new int[]{0, 0, 0, 13}, new int[]{3, 3, 3, 13},
+				                        StatCollector
+						                        .translateToLocal("gui.toolstation.excrook.name"),
+				                        StatCollector
+						                        .translateToLocal("gui.toolstation.excrook.desc"),
+				                        "tinker", "textures/gui/icons.png"));
+		TConstructRegistry.addToolRecipe(skyCrook, TinkerTools.toolRod, TinkerTools.toolRod,
+		                                 TinkerTools.toolRod);
 		logger.info(TConstructRegistry.getToolMapping());
 		skyHammer.prepSmashables();
 	}
