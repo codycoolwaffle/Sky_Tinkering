@@ -8,6 +8,6 @@ tool.skyhammer=exHammer
 tool.skycrook=exCrook
 
 gui.toolstation.exhammer.name=exHammer
-gui.toolstation.exHammer.desc=A hammer used to break down blocks by mining them.
+gui.toolstation.exhammer.desc=A hammer used to break down blocks by mining them.
 gui.toolstation.excrook.name=exCrook
 gui.toolstation.excrook.desc=A tool build for breaking leaves.

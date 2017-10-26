@@ -41,8 +41,6 @@ public class SkyCrook extends HarvestTool
 				return "_skycrook_handle";
 			case 3:
 				return "_skycrook_accessory";
-			case 4:
-				return "_skycrook_extra";
 			default:
 				return "";
 		}

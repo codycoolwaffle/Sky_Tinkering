@@ -99,7 +99,7 @@ public class SkyHammer extends HarvestTool implements IHammer
 			ArrayList<Smashable> next = itemInfoArrayListEntry.getValue();
 			for(Smashable smashingThrashingDashing : next)
 			{
-				tits.logger.info(smashingThrashingDashing);
+				tits.logger.info(smashingThrashingDashing.item.getUnlocalizedName());
 				rewards.add(smashingThrashingDashing);
 			}
 		}

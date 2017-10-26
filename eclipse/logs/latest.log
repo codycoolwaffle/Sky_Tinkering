@@ -1,30 +1,12 @@
-[00:30:45] [main/INFO]: Logging in with username & password
-[00:30:49] [main/INFO]: Setting user: codycoolwaffle
-[00:30:51] [Client thread/INFO]: LWJGL Version: 2.9.1
-[00:31:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinkers' in the Sky, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ex Nihilo, FMLFileResourcePack:Mantle, FMLFileResourcePack:Tinkers' Construct
-[00:31:05] [Sound Library Loader/INFO]: Sound engine started
-[00:31:05] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[00:31:06] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[00:31:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinkers' in the Sky, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ex Nihilo, FMLFileResourcePack:Mantle, FMLFileResourcePack:Tinkers' Construct
-[00:31:08] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
-[00:31:10] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
-[00:31:11] [Sound Library Loader/INFO]: Sound engine started
-[00:31:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[00:31:14] [Server thread/INFO]: Generating keypair
-[00:31:14] [Server thread/INFO]: Preparing start region for level 0
-[00:31:15] [Server thread/INFO]: Changing view distance to 8, from 10
-[00:31:15] [Server thread/INFO]: codycoolwaffle[local:E:24a205dc] logged in with entity id 49 at (163.7587803393943, 64.0, 149.69522025185856)
-[00:31:15] [Server thread/INFO]: codycoolwaffle joined the game
-[00:31:30] [Client thread/INFO]: [CHAT] [CoFH Core] A new version is available§6:
-[00:31:30] [Client thread/INFO]: [CHAT] §f[Download§f] Final 1.7.10 release.
-[00:37:53] [Server thread/INFO]: Saving and pausing game...
-[00:37:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[00:37:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[00:37:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[00:37:54] [Server thread/INFO]: Stopping server
-[00:37:54] [Server thread/INFO]: Saving players
-[00:37:54] [Server thread/INFO]: Saving worlds
-[00:37:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[00:37:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[00:37:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[00:37:55] [Client thread/INFO]: Stopping!
+[12:02:24] [main/INFO]: Logging in with username & password
+[12:02:38] [main/INFO]: Setting user: codycoolwaffle
+[12:02:42] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:03:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinkers' in the Sky, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ex Nihilo, FMLFileResourcePack:Mantle, FMLFileResourcePack:Tinkers' Construct
+[12:03:32] [Sound Library Loader/INFO]: Sound engine started
+[12:03:37] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:03:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:03:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tinkers' in the Sky, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Ex Nihilo, FMLFileResourcePack:Mantle, FMLFileResourcePack:Tinkers' Construct
+[12:03:49] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[12:04:00] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[12:04:01] [Sound Library Loader/INFO]: Sound engine started
+[12:04:38] [Client thread/INFO]: Stopping!

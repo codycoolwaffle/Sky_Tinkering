@@ -81,7 +81,6 @@ public class tits
 		TConstructRegistry.addToolRecipe(skyCrook, TinkerTools.toolRod, TinkerTools.toolRod,
 		                                 TinkerTools.toolRod);
 		logger.info(TConstructRegistry.getToolMapping());
-		skyHammer.prepSmashables();
 	}
 	
 	@EventHandler
@@ -89,15 +88,16 @@ public class tits
 	public void postInit(FMLPostInitializationEvent event)
 	{
 		proxy.initialize();
+		skyHammer.prepSmashables();
 		logger.info("Printing Tier 1 Tool Buttons:");
 		for(ToolGuiElement butt : TConstructClientRegistry.toolButtons)
 		{
-			logger.info(butt);
+			logger.info(butt.title);
 		}
 		logger.info("Printing Tier 2 Tool Buttons:");
 		for(ToolGuiElement butt : TConstructClientRegistry.tierTwoButtons)
 		{
-			logger.info(butt);
+			logger.info(butt.title);
 		}
 	}
 	
