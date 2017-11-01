@@ -87,7 +87,6 @@ public class SkyCrook extends skyHarvestTool
 		return new String[]{"tool", "utility", "harvest"};
 	}
 	
-	@Override
 	public float getDigSpeed(ItemStack item, Block block, int meta)
 	{
 		if(!item.hasTagCompound())
@@ -108,16 +107,11 @@ public class SkyCrook extends skyHarvestTool
 		
 	}
 	
-	@Override
 	public boolean isEffective(Block block, int meta)
 	{
-		boolean out = block.isLeaves(tits.proxy.getWorld(), 0, 0, 0);
-		
-		//tits.logger.info(out);
-		return out;
+		return block.isLeaves(tits.proxy.getWorld(), 0, 0, 0);
 	}
 	
-	@Override
 	public boolean onBlockStartBreak(ItemStack item, int X, int Y, int Z, EntityPlayer player)
 	{
 		CrookUtils.doCrooking(item, X, Y, Z, player);

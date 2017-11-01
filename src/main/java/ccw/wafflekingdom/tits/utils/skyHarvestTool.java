@@ -5,7 +5,7 @@ import net.minecraft.item.Item;
 
 import tconstruct.library.tools.HarvestTool;
 
-public class skyHarvestTool extends HarvestTool
+public abstract class skyHarvestTool extends HarvestTool
 {
 	protected boolean enabled;
 	
@@ -19,43 +19,36 @@ public class skyHarvestTool extends HarvestTool
 		return enabled;
 	}
 	
-	@Override
 	protected Material[] getEffectiveMaterials()
 	{
 		return new Material[0];
 	}
 	
-	@Override
 	protected String getHarvestType()
 	{
 		return null;
 	}
 	
-	@Override
 	public String getIconSuffix(int i)
 	{
 		return null;
 	}
 	
-	@Override
 	public String getEffectSuffix()
 	{
 		return null;
 	}
 	
-	@Override
 	public String getDefaultFolder()
 	{
 		return null;
 	}
 	
-	@Override
 	public Item getHeadItem()
 	{
 		return null;
 	}
 	
-	@Override
 	public Item getAccessoryItem()
 	{
 		return null;

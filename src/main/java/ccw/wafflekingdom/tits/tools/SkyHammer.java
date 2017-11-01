@@ -149,7 +149,6 @@ public class SkyHammer extends skyHarvestTool implements IHammer
 		return true;
 	}
 	
-	@Override
 	public boolean isEffective(Block block, int meta)
 	{
 		boolean out = false;
@@ -166,7 +165,6 @@ public class SkyHammer extends skyHarvestTool implements IHammer
 		return out || this.isEffective(block.getMaterial());
 	}
 	
-	@Override
 	public boolean isEffective(Material material)
 	{
 		boolean out = false;

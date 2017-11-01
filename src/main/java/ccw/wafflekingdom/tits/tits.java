@@ -21,7 +21,6 @@ import exnihilo.data.ModData;
 import tconstruct.library.TConstructRegistry;
 import tconstruct.library.client.TConstructClientRegistry;
 import tconstruct.library.client.ToolGuiElement;
-import tconstruct.library.tools.HarvestTool;
 import tconstruct.tools.TinkerTools;
 
 @SuppressWarnings({"all"})

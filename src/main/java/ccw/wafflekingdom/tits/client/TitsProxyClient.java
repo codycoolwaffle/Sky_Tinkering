@@ -9,14 +9,12 @@ import tconstruct.client.FlexibleToolRenderer;
 @SuppressWarnings({"unused"})
 public class TitsProxyClient extends TitsProxyCommon
 {
-	@Override
 	public void registerRenderers()
 	{
 		MinecraftForgeClient.registerItemRenderer(tits.skyCrook, new FlexibleToolRenderer());
 		MinecraftForgeClient.registerItemRenderer(tits.skyHammer, new FlexibleToolRenderer());
 	}
 	
-	@Override
 	public void initialize()
 	{
 		registerRenderers();
