@@ -10,18 +10,19 @@ import java.util.ArrayList;
 import java.util.Map;
 
 import ccw.wafflekingdom.tits.tits;
+import ccw.wafflekingdom.tits.utils.skyHarvestTool;
 import exnihilo.items.hammers.IHammer;
 import exnihilo.registries.HammerRegistry;
 import exnihilo.registries.helpers.Smashable;
 import exnihilo.utils.ItemInfo;
-import tconstruct.library.tools.HarvestTool;
 import tconstruct.tools.TinkerTools;
 
-public class SkyHammer extends HarvestTool implements IHammer
+public class SkyHammer extends skyHarvestTool implements IHammer
 {
-	public SkyHammer()
+	public SkyHammer(boolean enabled)
 	{
 		super(3);
+		this.enabled = enabled;
 	}
 	
 	public String getIconSuffix(int i)
@@ -148,6 +149,7 @@ public class SkyHammer extends HarvestTool implements IHammer
 		return true;
 	}
 	
+	@Override
 	public boolean isEffective(Block block, int meta)
 	{
 		boolean out = false;
@@ -160,10 +162,11 @@ public class SkyHammer extends HarvestTool implements IHammer
 			}
 		}
 		
-		tits.logger.info(out);
+		//tits.logger.info(out);
 		return out || this.isEffective(block.getMaterial());
 	}
 	
+	@Override
 	public boolean isEffective(Material material)
 	{
 		boolean out = false;
@@ -176,7 +179,7 @@ public class SkyHammer extends HarvestTool implements IHammer
 			}
 		}
 		
-		tits.logger.info(out);
+		//tits.logger.info(out);
 		return out;
 	}
 }

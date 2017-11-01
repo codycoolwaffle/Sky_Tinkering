@@ -9,6 +9,7 @@ import org.apache.logging.log4j.Logger;
 import ccw.wafflekingdom.tits.common.TitsProxyCommon;
 import ccw.wafflekingdom.tits.tools.SkyCrook;
 import ccw.wafflekingdom.tits.tools.SkyHammer;
+import ccw.wafflekingdom.tits.utils.skyHarvestTool;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.SidedProxy;
@@ -16,9 +17,11 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
+import exnihilo.data.ModData;
 import tconstruct.library.TConstructRegistry;
 import tconstruct.library.client.TConstructClientRegistry;
 import tconstruct.library.client.ToolGuiElement;
+import tconstruct.library.tools.HarvestTool;
 import tconstruct.tools.TinkerTools;
 
 @SuppressWarnings({"all"})
@@ -43,18 +46,17 @@ public class tits
 	@SuppressWarnings({"unused"})
 	public void preInit(FMLPreInitializationEvent event)
 	{
-		tits.skyHammer = new SkyHammer();
-		tits.skyCrook = new SkyCrook();
+		tits.skyHammer = new SkyHammer(ModData.ALLOW_HAMMERS);
+		tits.skyCrook = new SkyCrook(ModData.ALLOW_CROOKS);
 		
 		Item[] tools = {tits.skyHammer, tits.skyCrook};
 		String[] toolStrings = {"skyhammer", "skycrook"};
 		
 		for(int i = 0; i < tools.length; i++)
 		{
-			GameRegistry.registerItem(tools[i], toolStrings[i]);
-			TConstructRegistry.addItemToDirectory(toolStrings[i], tools[i]);
+			registerTCon((skyHarvestTool) tools[i], toolStrings[i]);
 		}
-		logger.info(TConstructRegistry.itemDirectory);
+		//logger.info(TConstructRegistry.itemDirectory);
 	}
 	
 	@EventHandler
@@ -80,7 +82,7 @@ public class tits
 				                        "tinker", "textures/gui/icons.png"));
 		TConstructRegistry.addToolRecipe(skyCrook, TinkerTools.toolRod, TinkerTools.toolRod,
 		                                 TinkerTools.toolRod);
-		logger.info(TConstructRegistry.getToolMapping());
+		//logger.info(TConstructRegistry.getToolMapping());
 	}
 	
 	@EventHandler
@@ -89,16 +91,24 @@ public class tits
 	{
 		proxy.initialize();
 		skyHammer.prepSmashables();
-		logger.info("Printing Tier 1 Tool Buttons:");
+		//logger.info("Printing Tier 1 Tool Buttons:");
 		for(ToolGuiElement butt : TConstructClientRegistry.toolButtons)
 		{
-			logger.info(butt.title);
+			//logger.info(butt.title);
 		}
-		logger.info("Printing Tier 2 Tool Buttons:");
+		//logger.info("Printing Tier 2 Tool Buttons:");
 		for(ToolGuiElement butt : TConstructClientRegistry.tierTwoButtons)
 		{
-			logger.info(butt.title);
+			//logger.info(butt.title);
 		}
 	}
 	
+	public void registerTCon(skyHarvestTool tool, String toolString)
+	{
+		if(tool.isEnabled())
+		{
+			GameRegistry.registerItem(tool, toolString);
+		}
+		TConstructRegistry.addItemToDirectory(toolString, tool);
+	}
 }

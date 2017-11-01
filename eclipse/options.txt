@@ -91,7 +91,7 @@ key_key.tbelt:48
 key_key.tzoom:44
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
-soundCategory_master:1.0
+soundCategory_master:0.2218543
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
