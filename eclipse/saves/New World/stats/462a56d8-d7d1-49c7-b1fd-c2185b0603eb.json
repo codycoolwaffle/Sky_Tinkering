@@ -1,15 +1,15 @@
 {
   "stat.useItem.351": 21,
-  "stat.walkOneCm": 48736,
-  "achievement.openInventory": 66,
-  "stat.flyOneCm": 34478,
+  "stat.walkOneCm": 50152,
+  "achievement.openInventory": 68,
+  "stat.flyOneCm": 36019,
   "stat.useItem.6": 5,
   "stat.mineBlock.18": 181,
   "tconstruct.beginner": 2,
   "stat.drop": 5,
-  "stat.jump": 137,
-  "stat.playOneMinute": 111036,
-  "stat.fallOneCm": 211,
+  "stat.jump": 147,
+  "stat.playOneMinute": 115328,
+  "stat.fallOneCm": 633,
   "achievement.exploreAllBiomes": {
     "value": 0,
     "progress": [

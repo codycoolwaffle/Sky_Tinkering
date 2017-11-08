@@ -28,13 +28,13 @@ import tconstruct.tools.TinkerTools;
 public class tits
 {
 	@SuppressWarnings({"all"})
-	public static final String VERSION = "1.0";
+	public static final String VERSION = "1.0.3";
 	@SuppressWarnings({"all"})
 	public static final String MODID = "tits";
 	public static final Logger logger = LogManager.getLogger(MODID);
 	
 	@SidedProxy(clientSide = "ccw.wafflekingdom.tits.client.TitsProxyClient",
-	            serverSide = "ccw.wafflekingdom.tits.client.TitsProxyCommon")
+	            serverSide = "ccw.wafflekingdom.tits.common.TitsProxyCommon")
 	@SuppressWarnings({"all"})
 	public static TitsProxyCommon proxy;
 	
