@@ -1,15 +1,17 @@
 package ccw.wafflekingdom.tits;
 
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraft.util.StatCollector;
+import net.minecraftforge.common.MinecraftForge;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import ccw.wafflekingdom.tits.common.TitsProxyCommon;
-import ccw.wafflekingdom.tits.tools.SkyCrook;
-import ccw.wafflekingdom.tits.tools.SkyHammer;
-import ccw.wafflekingdom.tits.utils.skyHarvestTool;
+import ccw.wafflekingdom.tits.common.tools.SkyCrook;
+import ccw.wafflekingdom.tits.common.tools.SkyHammer;
+import ccw.wafflekingdom.tits.common.utils.skyHarvestTool;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.SidedProxy;
@@ -18,9 +20,11 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 import exnihilo.data.ModData;
+import tconstruct.items.tools.Hammer;
 import tconstruct.library.TConstructRegistry;
 import tconstruct.library.client.TConstructClientRegistry;
 import tconstruct.library.client.ToolGuiElement;
+import tconstruct.library.tools.ToolCore;
 import tconstruct.tools.TinkerTools;
 
 @SuppressWarnings({"all"})
@@ -45,6 +49,8 @@ public class tits
 	@SuppressWarnings({"unused"})
 	public void preInit(FMLPreInitializationEvent event)
 	{
+		MinecraftForge.EVENT_BUS.register(this);
+		
 		tits.skyHammer = new SkyHammer(ModData.ALLOW_HAMMERS);
 		tits.skyCrook = new SkyCrook(ModData.ALLOW_CROOKS);
 		
@@ -53,9 +59,13 @@ public class tits
 		
 		for(int i = 0; i < tools.length; i++)
 		{
-			registerTCon((skyHarvestTool) tools[i], toolStrings[i]);
+			if(((skyHarvestTool)tools[i]).enabled)
+			{
+				registerTCon((skyHarvestTool) tools[i], toolStrings[i]);
+			}
 		}
 		//logger.info(TConstructRegistry.itemDirectory);
+		//logger.info(skyHammer instanceof ToolCore);
 	}
 	
 	@EventHandler
@@ -89,7 +99,6 @@ public class tits
 	public void postInit(FMLPostInitializationEvent event)
 	{
 		proxy.initialize();
-		skyHammer.prepSmashables();
 		//logger.info("Printing Tier 1 Tool Buttons:");
 		for(ToolGuiElement butt : TConstructClientRegistry.toolButtons)
 		{

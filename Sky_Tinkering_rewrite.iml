@@ -9,20 +9,6 @@
       </configuration>
     </facet>
   </component>
-  <component name="McpModuleSettings">
-    <option name="mappingFiles">
-      <set>
-        <option value="C:\Users\hasla\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\srgs\mcp-notch.srg" />
-        <option value="C:\Users\hasla\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\srgs\mcp-srg.srg" />
-        <option value="C:\Users\hasla\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\srgs\mcp.exc" />
-        <option value="C:\Users\hasla\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\srgs\notch-mcp.srg" />
-        <option value="C:\Users\hasla\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\srgs\notch-srg.srg" />
-        <option value="C:\Users\hasla\.gradle\caches\minecraft\net\minecraftforge\forge\1.7.10-10.13.4.1558-1.7.10\srgs\srg.exc" />
-      </set>
-    </option>
-    <option name="mcpVersion" value="null_-1" />
-    <option name="minecraftVersion" value="1.7.10" />
-  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -34,7 +20,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
-      <excludeFolder url="file://$MODULE_DIR$/out" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/api" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -101,6 +86,51 @@
       <library>
         <CLASSES>
           <root url="file://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/start" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CoFHCore-[1.7.10]3.1.2-325-deobf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/Ex-Nihilo-1.38-52-deobf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/Mantle-1.7.10-0.3.2b-deobf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/TConstruct-1.7.10-1.8.8-deobf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/IguanaTinkerTweaks-1.7.10-2.1.6-deobf.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
