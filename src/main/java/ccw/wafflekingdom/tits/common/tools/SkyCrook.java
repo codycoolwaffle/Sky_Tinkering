@@ -132,11 +132,14 @@ public class SkyCrook extends skyHarvestTool
 		//tits.logger.info(tags);
 		CrookUtils.doCrooking(item, X, Y, Z, player);
 		
-		if(breakTick)
+		if(player.worldObj.getBlock(X, Y, Z).isLeaves(player.worldObj, X, Y, Z))
 		{
-			LevelingLogic.addXP(item, player, 1);
+			if(breakTick)
+			{
+				LevelingLogic.addXP(item, player, 1);
+			}
+			breakTick = !breakTick;
 		}
-		breakTick = !breakTick;
 		
 		return super.onBlockStartBreak(item, X, Y, Z, player);
 	}
