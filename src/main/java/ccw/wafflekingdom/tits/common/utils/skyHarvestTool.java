@@ -26,7 +26,7 @@ public abstract class skyHarvestTool extends HarvestTool
 	
 	protected String getHarvestType()
 	{
-		return null;
+		return "";
 	}
 	
 	public String getIconSuffix(int i)

@@ -1,7 +1,6 @@
 package ccw.wafflekingdom.tits;
 
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemStack;
 import net.minecraft.util.StatCollector;
 import net.minecraftforge.common.MinecraftForge;
 
@@ -20,11 +19,9 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 import exnihilo.data.ModData;
-import tconstruct.items.tools.Hammer;
 import tconstruct.library.TConstructRegistry;
 import tconstruct.library.client.TConstructClientRegistry;
 import tconstruct.library.client.ToolGuiElement;
-import tconstruct.library.tools.ToolCore;
 import tconstruct.tools.TinkerTools;
 
 @SuppressWarnings({"all"})
@@ -72,7 +69,7 @@ public class tits
 	@SuppressWarnings({"unused"})
 	public void init(FMLInitializationEvent event)
 	{
-		logger.info("Boobs > Butts");
+		//logger.info("Boobs > Butts");
 		TConstructClientRegistry.toolButtons
 				.add(new ToolGuiElement(1, 5, 4, new int[]{11, 0, 1, 13}, new int[]{2, 3, 3, 13},
 				                        StatCollector
@@ -99,6 +96,7 @@ public class tits
 	public void postInit(FMLPostInitializationEvent event)
 	{
 		proxy.initialize();
+		skyHammer.prepSmashables();
 		//logger.info("Printing Tier 1 Tool Buttons:");
 		for(ToolGuiElement butt : TConstructClientRegistry.toolButtons)
 		{

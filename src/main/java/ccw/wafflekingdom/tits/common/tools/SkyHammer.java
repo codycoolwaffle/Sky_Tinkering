@@ -9,15 +9,11 @@ import net.minecraft.nbt.NBTTagCompound;
 import java.util.ArrayList;
 import java.util.Map;
 
-import ccw.wafflekingdom.tits.tits;
 import ccw.wafflekingdom.tits.common.utils.skyHarvestTool;
-import cpw.mods.fml.common.Mod.EventHandler;
-import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import exnihilo.items.hammers.IHammer;
 import exnihilo.registries.HammerRegistry;
 import exnihilo.registries.helpers.Smashable;
 import exnihilo.utils.ItemInfo;
-import tconstruct.library.tools.ToolCore;
 import tconstruct.tools.TinkerTools;
 
 public class SkyHammer extends skyHarvestTool implements IHammer
@@ -85,18 +81,12 @@ public class SkyHammer extends skyHarvestTool implements IHammer
 		return new Material[0];
 	}
 	
-	protected String getHarvestType()
-	{
-		return "";
-	}
-	
 	public String getModifyType()
 	{
 		return "Tool";
 	}
 	
-	@EventHandler
-	public void postInit(FMLPostInitializationEvent event)
+	public void prepSmashables()
 	{
 		for(Map.Entry<ItemInfo, ArrayList<Smashable>> itemInfoArrayListEntry : HammerRegistry
 				.getRewards().entrySet())
@@ -112,10 +102,6 @@ public class SkyHammer extends skyHarvestTool implements IHammer
 	
 	public float getDigSpeed(ItemStack item, Block block, int meta)
 	{
-		for(String str : ((ToolCore)item.getItem()).getTraits())
-		{
-			tits.logger.info(str);
-		}
 		if(!item.hasTagCompound())
 		{
 			return 0.0F;
